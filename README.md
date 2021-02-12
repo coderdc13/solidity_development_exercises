@@ -1,0 +1,2 @@
+# solidity_development_exercises
+Solidity Development Exercises
